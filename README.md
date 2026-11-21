@@ -17,11 +17,15 @@ Curso o Ensino Médio, com o 2º ano em conclusão em 2026.
 
 | Projeto | Proposta e estado atual |
 | --- | --- |
-| [Raízes do Futuro](https://github.com/ConexaoStreet/rh-raizes-do-futuro) | Aplicação de gestão em evolução, com React, TypeScript, Supabase e migrações SQL. |
+| Raízes do Futuro | Aplicação de gestão em evolução, com React, TypeScript, Supabase e SQL. Código-fonte em repositório privado. |
 | [Agenda](https://github.com/ConexaoStreet/Agenda) | Protótipo de agenda e controle de informações com Next.js e TypeScript, usando armazenamento local. |
 | [VT Builder IA](https://github.com/ConexaoStreet/VT-Builder-IA) | Protótipo de interface em HTML, CSS e JavaScript. O chat usa respostas simuladas. |
 
-As tecnologias indicadas na tabela descrevem os projetos. Não representam uma declaração de domínio avançado nem de autoria exclusiva de todo o código.
+As tecnologias indicadas na tabela descrevem os projetos. Não representam uma declaração de domínio avançado.
+
+## Autoria
+
+Sou o único autor do código dos projetos apresentados neste perfil.
 
 ## Contato
 
